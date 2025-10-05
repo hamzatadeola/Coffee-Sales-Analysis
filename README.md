@@ -24,7 +24,7 @@
 
 
 ### Exploratory Data Analysis
-EDA invovles exploring the sales data to answer key questions, such as:
+EDA invovles exploring the Coffee sales data to answer key questions, such as:
 - what is the overall sales trend overtime?
 - What is the most popular coffee types and roast preferences?
 - What is the customers behaviour overtime?
