@@ -45,7 +45,7 @@ EDA invovles exploring the Coffee sales data to answer key questions, such as:
 - Strengthen loyalty programs internationally to boost retention.
 - Launch seasonal campaigns during mid-year and festive periods.
 
- ### Limitations
+ ### Limitation
   I removed all zero values from the Unit price column because they would affect the accuracy of my conclusions for the analysis.
 
 
