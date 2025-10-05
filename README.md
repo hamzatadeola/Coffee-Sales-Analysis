@@ -3,6 +3,10 @@
 ### Project Overview
  This analysis presents an analysis of coffee sales data collected between 2019 and 2021. The dataset contains details on customer purchases, product types, roast preferences, and regional distribution. The purpose of the analysis is to uncover sales trends, identify top-performing products, and provide actionable insights that can guide strategic business decisions.
 
+<img width="1004" height="527" alt="Coffeee sales" src="https://github.com/user-attachments/assets/e1beeb93-44af-4e22-9b18-1fdaa36aeb07" />
+
+
+
 
 ### Data Description
 - Source: Coffee sales dataset with 1,000 transaction records.
