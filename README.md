@@ -34,10 +34,10 @@ EDA invovles exploring the Coffee sales data to answer key questions, such as:
 - What is the customers behaviour overtime?
 
   ### Results
-  1. The country that generates the highest revenue is the United States, which generates close to 80% of the cafe’s revenue.
-  2. Sales show steady growth, with peaks observed during mid-year and holiday periods, reflecting seasonal demand.
-  3. Customers with loyalty cards contribute significantly to repeat purchases, particularly in the U.S. market.
-  4. Arabica, Liberia, and Excelsa emerge as the most purchased coffee types, showing strong consumer preference.
+- The country that generates the highest revenue is the United States, which generates close to 80% of the cafe’s revenue.
+- Sales show steady growth, with peaks observed during mid-year and holiday periods, reflecting seasonal demand.
+- Customers with loyalty cards contribute significantly to repeat purchases, particularly in the U.S. market.
+- Arabica, Liberia, and Excelsa emerge as the most purchased coffee types, showing strong consumer preference.
 
 ### Recommendations
 - Focus marketing and distribution efforts on the U.S. market.
