@@ -23,7 +23,7 @@
 - Data loading and Inspection
 -  Handling missing values
 -  IFS Function to standardize values
--  Vlookup Function to J
+-  Vlookup Function to Join columns from the customer worksheet to the order worksheet.
 -  Data cleaning and formatting
 
 
